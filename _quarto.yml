@@ -8,6 +8,20 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - formatting-advice.qmd
+    - test-data-sets.qmd
+    - workflow-design.qmd
+    - convert-lose-scripts.qmd
+    - minimal-examples.qmd
+    - packaging-and-portability.qmd
+    - debugging.qmd
+    - nf-core.qmd
+    - nextflow-support-resources.qmd
+    - understanding-configuration.qmd
+    - metadata-management.qmd
+    - application-programmer-interfaces.qmd
+    - task-grouping.qmd
+    - good-practices.qmd
     - summary.qmd
     # - references.qmd
 
