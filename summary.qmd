@@ -1,3 +1,11 @@
 # Summary
 
-In summary, this book has no content whatsoever.
+We hope this workshop has helped you to improve your Nextflow workflows. 
+
+If there is anything we can do better or you would like to see supported, 
+please let us know by making an issue on our [Github issues page](https://github.com/mahesh-panchal/Nextflow-code-clinic/issues).
+
+If you're in need of further help don't forget to check-out the resources
+on the [Nextflow support resources page](nextflow-support-resources.qmd).
+
+Happy coding!
