@@ -1,5 +1,15 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+The purpose of this workshop is
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+- Workflow design advice
+- Implementation suggestions
+- Improving portability
+- Implementing better practices
+- Code review
+
+## Prerequisites
+
+- Familiarity with Nextflow
+- Format code according to guidelines (this makes it easier for us to help you).
+- Have a test data set (this helps test implementation faster).
