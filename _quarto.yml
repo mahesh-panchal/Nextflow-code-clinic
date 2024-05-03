@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "Nextflow Code Clinic"
+  author: "Mahesh Binzer-Panchal"
+  date: today
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: sketchy
+
+
+
