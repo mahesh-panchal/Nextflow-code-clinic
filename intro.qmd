@@ -1,5 +1,28 @@
-# Introduction
+# Nextflow Code Clinic
 
-This is a book created from markdown and executable code.
+## Where to apply
 
-See @knuth84 for additional discussion of literate programming.
+Check the [events page on SciLifeLab events](https://www.scilifelab.se/events/#calendar) and keep an eye out for this workshop.
+
+## Preqrequisites
+
+### Familiarity with Nextflow
+
+This workshop is intended to help improve writing of Nextflow workflows. As such
+we expect participants to be able to write basic Nextflow scripts, be able to
+script in a scripting language such as Bash/Python/R, and be familiar with their
+compute environment and job submission software.
+
+### Formatted code
+
+Clean and readable code allows us to better understand what you're attempting to do.
+Follow the formatting guidelines on [Formatting Advice](formatting-advice.qmd).
+
+### A test data set
+
+When you're prototying/developing a workflow, you want to keep writing code while
+you're still in the flow of it. Having an aggressively subsampled data set means you're
+not waiting long for tools to finish their job before you can move on to coding/fixing the 
+next steps. Sometimes this is not possible, but making a best effort can help when you 
+want to develop quickly, and allows you to construct a test suite for adding to the 
+workflow without breaking it in the future.
