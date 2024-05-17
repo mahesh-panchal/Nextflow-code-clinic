@@ -22,6 +22,7 @@ book:
     - application-programmer-interfaces.qmd
     - task-grouping.qmd
     - good-practices.qmd
+    - publication-quality-workflows.qmd
     - summary.qmd
     # - references.qmd
 
