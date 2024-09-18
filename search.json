@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nextflow Code Clinic",
+    "section": "",
+    "text": "Preface\nThe purpose of this workshop is",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "Nextflow Code Clinic",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nFamiliarity with Nextflow\nFormat code according to guidelines (this makes it easier for us to help you).\nHave a test data set (this helps test implementation faster).",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Nextflow Code Clinic",
+    "section": "",
+    "text": "1.1 Where to apply\nCheck the events page on SciLifeLab events and keep an eye out for this workshop.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Nextflow Code Clinic</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#preqrequisites",
+    "href": "intro.html#preqrequisites",
+    "title": "1  Nextflow Code Clinic",
+    "section": "1.2 Preqrequisites",
+    "text": "1.2 Preqrequisites\n\n1.2.1 Familiarity with Nextflow\nThis workshop is intended to help improve writing of Nextflow workflows. As such we expect participants to be able to write basic Nextflow scripts, be able to script in a scripting language such as Bash/Python/R, and be familiar with their compute environment and job submission software.\n\n\n1.2.2 Formatted code\nClean and readable code allows us to better understand what you’re attempting to do. Follow the formatting guidelines on Formatting Advice.\n\n\n1.2.3 A test data set\nWhen you’re prototying/developing a workflow, you want to keep writing code while you’re still in the flow of it. Having an aggressively subsampled data set means you’re not waiting long for tools to finish their job before you can move on to coding/fixing the next steps. Sometimes this is not possible, but making a best effort can help when you want to develop quickly, and allows you to construct a test suite for adding to the workflow without breaking it in the future.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Nextflow Code Clinic</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "17  Summary",
+    "section": "",
+    "text": "We hope this workshop has helped you to improve your Nextflow workflows.\nIf there is anything we can do better or you would like to see supported, please let us know by making an issue on our Github issues page.\nIf you’re in need of further help don’t forget to check-out the resources on the Nextflow support resources page.\nHappy coding!",
+    "crumbs": [
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  }
+]
