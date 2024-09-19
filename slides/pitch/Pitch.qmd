@@ -1,0 +1,29 @@
+---
+title: "The Pitch"
+author: "Mahesh Binzer-Panchal"
+format:
+  revealjs:
+    scrollable: true
+    theme: 'sky'
+---
+
+## Title slide
+
+- Title
+- Authors
+- Collaborators
+- Licence
+
+## Objective
+
+Create and explore Interoperable and Reproducible training material (text, presentation)
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Things to remember
+
+- Narrative ( Speaker notes )
+- Instructor notes ( for exercises, etc )
+- Lesson plan
