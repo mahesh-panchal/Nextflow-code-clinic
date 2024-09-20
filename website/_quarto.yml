@@ -30,7 +30,6 @@ bibliography: references.bib
 
 format:
   html:
-    theme: sketchy
-
-
-
+    theme: 
+      light: sketchy
+      dark: slate
